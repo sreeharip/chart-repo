@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  dotnetcoach:
+  - apiVersion: v1
+    created: "2021-02-01T10:33:19.869156+05:30"
+    digest: 33a4c930ef3b31c898919de78c8bd5595553ed2554dcf5671f4bb0d61623a5b1
+    name: dotnetcoach
+    urls:
+    - https://github.com/sreeharip/chart-repo/releases/download/dotnetcoach-1.0.0/dotnetcoach-1.0.0.tgz
+    version: 1.0.0
+generated: "2021-02-01T10:33:18.4924864+05:30"
